@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+    justify-content: center;
+    padding-top: 50px;
+}
+main{
+    display: flex;
+}
+#system,#user{
+    border: 2px solid;
+    margin-right: 10px;
+    padding: 10px;
+}
+body{
+    background-color: aqua;
+}
+button{
+   padding: 10px;
+}
